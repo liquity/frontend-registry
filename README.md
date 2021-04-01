@@ -1,6 +1,6 @@
 # Liquity Frontend Registry 
 
-- [Liquity Frontends](LIST.md)
+- [Liquity Frontends List](LIST.md)
 
 ## What are Liquity frontends? 
 Liquity AG is not running its own frontend — making the system more decentralized and censorship-resistant. Instead, Liquity is leaning on its ecosystem to bootstrap access to the protocol.
