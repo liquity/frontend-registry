@@ -14,4 +14,4 @@ In your frontend's `.md` file, please include the following information:
 After which, your frontend may be added to the Github registry, then the liquity.org registry. 
 
 ## Disclaimer
-Submitting a PR does not guarantee inclusion into the list. Community activity and participation is a necessary prerequisite. Unknown entities may be ignored. 
+*Submitting a PR does not guarantee inclusion into the list. Community activity, past history in the space, and participation in the ecosystem are all important.* 
