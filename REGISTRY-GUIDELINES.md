@@ -1,6 +1,6 @@
 # Registry Guidelines and PR Template
 
-In order for your frontend to be included in the registry you must first submit a pull request to [LIST.md](LIST.md) and include the following information: 
+To pepare your frontend for inclusion in the registry, you must first submit a pull request to [LIST.md](LIST.md) and include the following information: 
 
 - Website URL: 
 - Date launched: 
