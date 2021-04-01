@@ -15,3 +15,7 @@ After which, your frontend may be added to the Github registry, then the liquity
 
 ## Disclaimer
 *Submitting a PR does not guarantee inclusion into the list. Community activity, past history in the space, and participation in the ecosystem are all important.* 
+
+*Inclusion in the list does not emply that Liquity AG has not entered into any form of cooperation with Frontend Operators.* 
+
+*The list of Frontend Operators is provided for informational purposes only. Neither is the list conclusive, nor has Liquity AG conducted any due diligence on these operators.* *Accordingly, Liquity AG does not make any statement regarding technical functionality and/or the trustworthiness of the Frontend Operators listed.*
