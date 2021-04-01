@@ -9,5 +9,5 @@ To pepare your frontend for inclusion in the registry, you must first submit a p
 - Kickback Rate: 
 - Product Description: 
 
-##Disclaimer
+## Disclaimer
 Submitting a PR does not guarantee inclusion into the list. Community activity and participation is a necessary prerequisite. Unknown entities may be ignored. 
