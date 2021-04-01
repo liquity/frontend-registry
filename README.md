@@ -19,7 +19,7 @@ To add your frontend to the registry, please refer the following [guidelines and
 Moving frontends from the Github repository to the website is also a manual process, they will be added as soon as they can. 
 
 ## How do I report a malicious frontend? 
-If you have reason to believe a frontend is a risk to users, please follow the [reporting guidelines here](REPORTING-GUIDELINES.md). 
+If you have reason to believe a frontend is a risk to users, please follow the [reporting guidelines here](REPORT-FRONTEND.md). 
 
 ## Disclaimers 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
