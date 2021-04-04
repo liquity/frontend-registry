@@ -1,5 +1,7 @@
 # Liquity Frontends
-- [Example](frontends/example.md)
+- [Example Frontend](frontends/example.md)
+
+## Frontend List
 - [Zerion](frontends/zeriod.md)
 - [lusd.eth.link by 1kx](frontends/lusd.eth.link.md)
 - [Liquity GG](frontends/liquitygg.md)
