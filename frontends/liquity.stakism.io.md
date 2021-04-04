@@ -1,6 +1,6 @@
 ## liquity.stakism.io
 - Website URL: https://liquity.stakism.io
-- Date launched: 29/03/2021
+- Date launched: 02/04/2021
 - Company name (if applicable): Stakism.io 
 - Contact (email, Discord, etc.): team@stakism.io, drptbl#2266
 - Kickback Rate: 97%
