@@ -1,6 +1,7 @@
 # Liquity Frontends
 - [Example](frontends/example.md)
 - [Zerion](frontends/zeriod.md)
+- [lusd.eth.link by 1kx](frontends/lusd.eth.link.md)
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
