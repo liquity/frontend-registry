@@ -1,5 +1,5 @@
 - Website URL: https://lusd.eth.link
-- Date launched: 4/5/2015
+- Date launched: 4/5/2021
 - Company name (if applicable): 1kx 
 - Contact (email, Discord, etc.): Discord joerg#3470
 - Kickback Rate: 95%
