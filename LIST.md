@@ -5,6 +5,8 @@
 - [Zerion](frontends/zeriod.md)
 - [lusd.eth.link by 1kx](frontends/lusd.eth.link.md)
 - [Liquity GG](frontends/liquitygg.md)
+- [Waterslide](frontends/waterslide.md) 
+- [0Y](frontends/0Y.md) 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
