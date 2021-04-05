@@ -17,6 +17,7 @@
 | [Liquity.Store](frontends/liquity_store.md) | 100% | 
 | [0Y](frontends/0Y.md)  | 90% | 
 | [cp0x](frontends/cp0x.md) | 90% | 
+| [NILInterest](frontends/nilinterest.com.md) | 99% | 
 
 
 ## Disclaimer 
