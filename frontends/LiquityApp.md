@@ -1,6 +1,6 @@
 ## LiquityApp Frontend
 - Website URL: https://liquityapp.com
-- Date launched: 4/04/2021
-- Contact: q66141115@gmail.com
-- Kickback Rate: 95%
-- Product Description: Bare bone Liquity frontend straight from Liquity Frontend Launch kit. No fancy functionalities, sorry. But that means there is no third-party integration risk and your funds are safe as long as Liquity is working as intended. The current kickback rate is 95%. I will try to give back as much as possible while keeping the site running and having a small margin :) Trade safe and have fun!
+- Date launched: 4/05/2021
+- Contact: q66141115@gmail.com, Discord namae1#6658
+- Kickback Rate: 99%
+- Product Description: 99% kickback rate with latest frontend UI from Liquity launch kit. Users can borrow LUSD using ETH and stake in stability pool to earn LQTY. Main functionalities from Liquity are available. I will add more features based on user request :) Trade safe and have fun!
