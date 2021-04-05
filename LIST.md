@@ -4,6 +4,7 @@
 ## Frontend List
 | Name | Kickback Rate | 
 | ---- | ------------- | 
+| [lusd.money](frontends/lusd.money.md) | 99% | 
 | [Zerion](frontends/zerion.md) | 90% | 
 | [lusd.eth.link by 1kx](frontends/lusd.eth.link.md) | 95% | 
 | [LiquityFi](frontends/liquityfi.md) | 97% | 
