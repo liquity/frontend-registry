@@ -10,7 +10,7 @@
 | [Liquity GG](frontends/liquitygg.md) | 96% | 
 | [Waterslide](frontends/waterslide.md) | 95% | 
 | [0Y](frontends/0Y.md)  | 90% | 
-| [cp0x](frontends/cp0x.md | 90% | 
+| [cp0x](frontends/cp0x.md) | 90% | 
 
 
 ## Disclaimer 
