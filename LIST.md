@@ -6,6 +6,8 @@
 | ---- | ------------- | 
 | [Zerion](frontends/zerion.md) | 90% | 
 | [lusd.eth.link by 1kx](frontends/lusd.eth.link.md) | 95% | 
+| [LiquityFi](frontends/liquityfi.md) | 97% | 
+| [liquity.app by liquidlattice](frontends/liquityapp.md) | 99% | 
 | [Stakism](frontends/liquity.stakism.io.md) | 97% | 
 | [Multiplier](frontends/multuplier.md) | 95% | 
 | [Liquity GG](frontends/liquitygg.md) | 96% | 
