@@ -4,7 +4,7 @@
 ## Frontend List
 | Name | Kickback Rate | 
 | ---- | ------------- | 
-| [Zerion](frontends/zeriod.md) | 90% | 
+| [Zerion](frontends/zerion.md) | 90% | 
 | [lusd.eth.link by 1kx](frontends/lusd.eth.link.md) | 95% | 
 | [Stakism](frontends/liquity.stakism.io.md) | 97% | 
 | [Multiplier](frontends/multuplier.md) | 95% | 
