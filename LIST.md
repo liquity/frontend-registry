@@ -7,6 +7,7 @@
 | [Zerion](frontends/zeriod.md) | 90% | 
 | [lusd.eth.link by 1kx](frontends/lusd.eth.link.md) | 95% | 
 | [Stakism](frontends/liquity.stakism.io.md) | 97% | 
+| [Multiplier](frontends/multuplier.md) | 95% | 
 | [Liquity GG](frontends/liquitygg.md) | 96% | 
 | [Waterslide](frontends/waterslide.md) | 95% | 
 | [0Y](frontends/0Y.md)  | 90% | 
