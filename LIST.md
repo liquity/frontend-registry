@@ -13,6 +13,7 @@
 | [Multiplier](frontends/multuplier.md) | 95% | 
 | [Liquity GG](frontends/liquitygg.md) | 96% | 
 | [Waterslide](frontends/waterslide.md) | 95% | 
+| [Neighborhodl](frontends/neighborhodl.md) | 95% | 
 | [Liquity.Store](frontends/liquity_store.md) | 100% | 
 | [0Y](frontends/0Y.md)  | 90% | 
 | [cp0x](frontends/cp0x.md) | 90% | 
