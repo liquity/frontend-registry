@@ -1,6 +1,6 @@
 ## Readily Finance
 
-- Website URL: https://readily.finance
+- Website URL: https://info.readily.finance
 - Date launched: 04.06.2021
 - Company name (if applicable): Readily
 - Contact (email, Discord, etc.): readilyfinance@gmail.com
