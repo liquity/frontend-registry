@@ -18,6 +18,7 @@
 | [0Y](frontends/0Y.md)  | 90% | 
 | [cp0x](frontends/cp0x.md) | 90% | 
 | [NILInterest](frontends/nilinterest.com.md) | 99% | 
+| [freely.finance](frontends/freely_finance.md) | 99.9% | 
 
 
 ## Disclaimer 
