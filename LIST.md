@@ -9,7 +9,7 @@
 | [LiquityFi](frontends/liquityfi.md) | 97% | 
 | [liquity.app by liquidlattice](frontends/liquityapp.md) | 99% | 
 | [Liquity.Fun](frontends/liquity_fun.md) | 99% | 
-| [Stakism](frontends/liquity.stakism.io.md) | 97% | 
+| [Stakism](frontends/liquity.stakism.io.md) | 98% | 
 | [Multiplier](frontends/multuplier.md) | 95% | 
 | [Liquity GG](frontends/liquitygg.md) | 99.2% | 
 | [Waterslide](frontends/waterslide.md) | 95% | 
