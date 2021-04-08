@@ -1,4 +1,4 @@
-## liquity frontend
+## liquidDeFi
 - Website URL: https://liquity.wats.app/
 - Date launched: 04/05/2021
 - Company name (if applicable):
