@@ -19,6 +19,9 @@
 | [cp0x](frontends/cp0x.md) | 95% | 
 | [NILInterest](frontends/nilinterest.com.md) | 99% | 
 | [freely.finance](frontends/freely_finance.md) | 99.9% | 
+| [Liquity Staking Community Dashboard](frontends/liquitystaking.md) | 99% | 
+| [LiquityFinance](frontends/liquityfinance.md) | 98% | 
+| [LUSD.fi](lusd_fi.md) | 99% | 
 
 
 ## Disclaimer 
