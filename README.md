@@ -13,7 +13,7 @@ This Frontend Registry is a place for Liquity Frontend Operators to make their e
 **Note:** This registry is *seperate* from registering your frontend with the protocol, which is a completely permissionless process. This registry only releates to this Github repository and [liquity.org](https://www.liquity.org). 
 
 ## How do I get my frontend added to the registry? 
-To add your frontend to the registry, please refer the following [guidelines and PR template](REGISTRY-GUIDELINES.md). Any PRs that deviate from the template *will not be added*. 
+To add your frontend to the registry, please refer the following [guidelines and PR template](REGISTRY-GUIDELINES.md). Any PRs that deviate from the template *will not be added*. Also, please consider the uniqueness of your frontend relative to its peers. Many people will spin up Launch Kits, but consider why users may choose your frontend over another. 
 
 *Note: Getting added the registry is not an automated process, therefore there is no guaranteed timeline for getting your PR accepted. Please be patient.* 
 
