@@ -22,6 +22,7 @@
 | [Liquity Staking Community Dashboard](frontends/liquitystaking.md) | 99% | 
 | [LiquityFinance](frontends/liquityfinance.md) | 98% | 
 | [LUSD.fi](lusd_fi.md) | 99% | 
+| [LQTY.io](frontends/lqtyio.md) | 99% | 
 
 
 ## Disclaimer 
