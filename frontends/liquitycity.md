@@ -4,4 +4,4 @@
 - Company name (if applicable): Not applicable 
 - Contact (email, Discord, etc.): liquity.city.eth@gmail.com
 - Kickback Rate: 90%
-- Product Description:  Hosting an advanced frontend provided by Liquity.fi for myself, and opening to anybody. I’m charging a 01% to offset server bills.
+- Product Description:  Hosting an advanced frontend provided by Liquity.fi for myself, and opening to anybody. I’m charging a 10% to offset server bills.
