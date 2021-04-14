@@ -1,4 +1,4 @@
-## Example Frontend
+## Lyquido
 - Website URL: https://lyquido.com
 - Date launched: 4/5/2021
 - Company name (if applicable): Alfa Caeli SL 
