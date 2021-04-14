@@ -25,8 +25,10 @@
 | [LQTY.io](frontends/lqtyio.md) | 99% | 
 | [BorrowCrypto.online](frontends/borrowcrypto.md) | 99.5% | 
 | [lusd.money by Digital Assets Slovakia s.r.o.](lusd.money.md) | 99% | 
-
-
+| [Ushakov](frontends/ushakov.md) | 99% | 
+| [liquity.space](frontends/liquity.space.md) | 99% | 
+| [Lyquido](frontends/lyquido.md) | 98% | 
+| [LiquityTk](frontends/liquitytk.md) | 99% | 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
