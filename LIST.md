@@ -23,6 +23,7 @@
 | [LiquityFinance](frontends/liquityfinance.md) | 98% | 
 | [LUSD.fi](lusd_fi.md) | 99% | 
 | [LQTY.io](frontends/lqtyio.md) | 99% | 
+| [BorrowCrypto.online](frontends/borrowcrypto.md) | 99.5% | 
 
 
 ## Disclaimer 
