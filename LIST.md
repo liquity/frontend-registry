@@ -24,6 +24,8 @@
 | [LUSD.fi](lusd_fi.md) | 99% | 
 | [LQTY.io](frontends/lqtyio.md) | 99% | 
 | [BorrowCrypto.online](frontends/borrowcrypto.md) | 99.5% | 
+| [lusd.money by Digital Assets Slovakia s.r.o.](lusd.money.md) | 99% | 
+
 
 
 ## Disclaimer 
