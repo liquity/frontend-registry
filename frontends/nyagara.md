@@ -1,4 +1,4 @@
-# waterslide
+# Nyagara
 * Website URL: https://www.nyagara.eu
 * Date launched: 14/04/2021
 * Company name: Nyagara
