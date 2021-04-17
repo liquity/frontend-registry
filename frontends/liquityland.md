@@ -8,15 +8,6 @@
 	- discord: liquityland
 - Kickback Rate: 99%
 - Product Description: 
-	- we run a non-custodial, trustworthy and globally distributed frontend for Liquity Protocol for borrowing with 0% interest rate
-	- our frontend is hosted on secure servers located in Netherlands and maintained by security experts with 24/7 surveillance
-	- we provide kickback rate of 99% which means that users can earn 99% of the rewards by depositing LUSD into the Stability Pool on our frontend
-	- the kickback rate will never be changed
-	- coming soon:
-		- mobile app (iOS/Android)
-		- more intuitive UI with new features
-		- new wallets
-		- automated leverage, staking
-		- newsletter
-	- our mission is to show contribution to cryptospace and DeFi, by providing an user-friendly door to lending/borrowing services	
-	
+	The Most Simple Frontend. Completely Redesigned UI. Connect with Metamask, WalletConnect and Coinbase Wallet. Never Changing Kickback Rate at 99%. Mobile Version Available. Run by Blockchain Experts. Safe. Android/iOS app Comming Soon.
+					   
+	- Our mission is to show contribution to cryptospace and DeFi, by providing an user-friendly door to lending/borrowing services
