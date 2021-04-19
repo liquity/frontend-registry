@@ -29,6 +29,13 @@
 | [liquity.space](frontends/liquity.space.md) | 99% | 
 | [Lyquido](frontends/lyquido.md) | 98% | 
 | [LiquityTk](frontends/liquitytk.md) | 99% | 
+| [LiquityIO](frontends/liquityio.md) | 80% | 
+| [Readily Finance](frontends/readily.md) | 99% | 
+| [Liquid](frontends/liquid.md) | 95% | 
+| [LQTY.fi](frontends/lqty.fi.md) | 98% | 
+| [LiquityMe](frontends/Liquity_Me.md) | 97% | 
+| [Liquity XYZ](frontends/liquity_xyz.md) | 98% | 
+| [liquidDeFi](liquity.wats.app.md) | 99% | 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
