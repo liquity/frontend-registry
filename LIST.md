@@ -4,7 +4,6 @@
 ## Frontend List
 | Name | Kickback Rate | 
 | ---- | ------------- | 
-| [getinsight](frontends/getinsight.md) | 99% | 
 | [Zerion](frontends/zerion.md) | 90% | 
 | [lusd.eth.link by 1kx](frontends/lusd.eth.link.md) | 95% | 
 | [LiquityFi](frontends/liquityfi.md) | 100% | 
@@ -37,6 +36,9 @@
 | [LiquityMe](frontends/Liquity_Me.md) | 97% | 
 | [Liquity XYZ](frontends/liquity_xyz.md) | 98% | 
 | [liquidDeFi](liquity.wats.app.md) | 99% | 
+| [67Crypto](frontends/67crypto.md) | 99% | 
+| [LiquityProtocol.com](frontends/liquityprotocol.md) | 96% |
+| [getinsight](frontends/getinsight.md) | 99% | 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
