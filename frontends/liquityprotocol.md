@@ -1,0 +1,6 @@
+- Website URL: https://liquityprotocol.com/
+- Date launched: 04/09/2021
+- Company name (if applicable):
+- Contact (email, Discord, etc.): Email: liquityprotocol@gmx.com; Discord: woh#4526
+- Kickback Rate: 96%
+- Product Description: -New Lottery Feature- 75% of ALL LQTY kickbacks to this frontend will be locked and staked and ALL issuance gains will be given out in a weekly lottery! The team will also lock addtional bonus LQTY for bigger lottery. New exciting features are to come and retro-active rewards for early bootstrappers. On top of the extra features, Liquity Protocol strives to be the default gateway for interacting with all Liquity functions.
