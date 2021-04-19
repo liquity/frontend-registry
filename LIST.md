@@ -39,6 +39,8 @@
 | [67Crypto](frontends/67crypto.md) | 99% | 
 | [LiquityProtocol.com](frontends/liquityprotocol.md) | 96% |
 | [getinsight](frontends/getinsight.md) | 99% | 
+| [LiquityLand](frontends/liquityland.md) | 99% | 
+| [Finance.Liquity](frontends/finance.liquity.md) | 99% | 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
