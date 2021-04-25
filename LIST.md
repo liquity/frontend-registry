@@ -41,6 +41,10 @@
 | [getinsight](frontends/getinsight.md) | 99% | 
 | [LiquityLand](frontends/liquityland.md) | 99% | 
 | [Finance.Liquity](frontends/finance.liquity.md) | 99% | 
+| [Liquity.cf](frontends/LiquityCf.md) | 98% | 
+| [lqty.top](frontends/lqty.top.md) | 99.99% | 
+| [Liquify](frontends/liquify.md) | 99% | 
+| [Nyagara](frontends/nyagara.md) | 99% | 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
