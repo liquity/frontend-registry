@@ -6,7 +6,7 @@
 - Product Description: 99% kickback rate with the latest frontend UI from Liquity launch kit. Users can borrow LUSD using ETH, stake LUSD in the stability pool to earn LQTY and ETH, and stake LQTY to earn ETH & LUSD. Main functionalities from Liquity are available. SSL Certificate: Let's Encrypt for privacy protection. More features will be added. :) Have fun!
 
 
-## 67Crypto Liquity前端
+## 67Crypto Liquity 前端
 -网站网址：https://www.67crypto.com
 -推出日期：04/09/2021
 -联系人（电子邮件，Discord, 等联系方式）：liquity@67crypto.com
