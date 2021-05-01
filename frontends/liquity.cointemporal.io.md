@@ -7,7 +7,7 @@
 - Product Description: 
 -   - hosted in the US
       - our frontend is hosted on secure servers and protected via ssl certificates,HSTS and DNSSEC enabled;
-  - 99.5% kickback rate
+    - 99.5% kickback rate
       - users depositing through our frontend receive a 99.5% kickback rate.
-  - custom frontend skin and additional features
+    - custom frontend skin and additional features
       - our team has engineers with several years of experience in DevSecOps and building scalable applications.
