@@ -50,6 +50,10 @@
 | [Liquity.Zone](frontends/liquity.zone.md) | 98% | 
 | [liquity.cointemporal.io](frontends/liquity.cointemporal.io.md) | 99.5% | 
 | [LiquityLoans.com](frontends/liquityloans.com.md) | 99.5% | 
+| [Hashlab](frontends/hashlab.md) | 99% | 
+| [JIPOARD liquity frontend](frontends/jipoard.md) | 99% | 
+| [Liquity City](frontends/liquitycity.md) | 90% | 
+| [Get Liquity](frontends/getliquity.md) | 90% | 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
