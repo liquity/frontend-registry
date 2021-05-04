@@ -1,0 +1,13 @@
+## liquity.cointemporal.io by cointemporal.io
+- Website URL: 🔒 https://cointemporal.io
+- Date launched: 2021-05-01
+- Company name (if applicable): not applicable
+- Contact (email, Discord, etc.):hello@cointemporal.io, https://discord.gg/r73BGMPaRC
+- Kickback Rate: `99.5%`
+- Product Description: 
+-   - hosted in the US
+      - our frontend is hosted on secure servers and protected via ssl certificates,HSTS and DNSSEC enabled;
+    - 99.5% kickback rate
+      - users depositing through our frontend receive a 99.5% kickback rate.
+    - custom frontend skin and additional features
+      - our team has engineers with several years of experience in DevSecOps and building scalable applications.
