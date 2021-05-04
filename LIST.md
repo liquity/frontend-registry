@@ -46,6 +46,10 @@
 | [Liquify](frontends/liquify.md) | 99% | 
 | [Nyagara](frontends/nyagara.md) | 99% | 
 | [Wasabix Frontend](frontends/liquity.wasabix.finance.md) | 100% | 
+| [The Layer Fund](frontends/thelayerfund.md) | 98% | 
+| [Liquity.Zone](frontends/liquity.zone.md) | 98% | 
+| [liquity.cointemporal.io](frontends/liquity.cointemporal.io.md) | 99.5% | 
+| [LiquityLoans.com](frontends/liquityloans.com.md) | 99.5% | 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
