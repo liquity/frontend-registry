@@ -1,0 +1,6 @@
+- Website URL: https://liquityfinance.com/
+- Date launched: 04/03/2021
+- Company name (if applicable):
+- Contact (email, Discord, etc.): nt185007#6233
+- Kickback Rate: 98%
+- Product Description: Team of engineers experience in deploying large-scale applications that are highly scalable. We had made sure we have thoroughly tested the setup for any security vulnerabilities and deployed the best security policies.  
