@@ -1,0 +1,6 @@
+- Website URL: https://lusd.songoku.io/
+- Date launched: 28/05/2021
+- Company name (if applicable): songoku.io
+- Contact (email, Discord, etc.): https://discord.gg/5uaWNC7zXd
+- Kickback Rate: 99%
+- Product Description: The songoku.io team is committed to value discovery in the crypto world. We provide a public liquity frontend with 99% kickback rate, and will continue to improve it with added values.
