@@ -5,9 +5,7 @@
 - Contact: 
 	- mail: team@liquityland.com
 	- twitter: @landliquity
-	- discord: liquityland
+	- discord: nikola | liquityland.com #8659
 - Kickback Rate: 99%
 - Product Description: 
-	The Most Simple Frontend. Completely Redesigned UI. Connect with Metamask, WalletConnect and Coinbase Wallet. Never Changing Kickback Rate at 99%. Mobile Version Available. Run by Blockchain Experts. Safe. Android/iOS app Comming Soon.
-					   
-	- Our mission is to show contribution to cryptospace and DeFi, by providing an user-friendly door to lending/borrowing services
+	The Most Simple Frontend. Completely Redesigned UI. Overview of liquidation price, redemption and liquidation risk. Connect with Metamask, WalletConnect and Coinbase Wallet. Never Changing Kickback Rate at 99%. Run by Blockchain Experts. Safe.
