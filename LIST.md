@@ -8,6 +8,7 @@
 | [lusd.eth.link by 1kx](frontends/lusd.eth.link.md) | 95% | 
 | [LiquityFi](frontends/liquityfi.md) | 100% | 
 | [liquity.app by liquidlattice](frontends/liquityapp.md) | 99% | 
+| [B.Protocol Frontend](frontends/B.Protocol.md) | 100% | 
 | [Liquity.Fun](frontends/liquity_fun.md) | 99% | 
 | [Stakism](frontends/liquity.stakism.io.md) | 98% | 
 | [Multiplier](frontends/multuplier.md) | 95% | 
