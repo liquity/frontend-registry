@@ -56,6 +56,7 @@
 | [Liquity City](frontends/liquitycity.md) | 90% | 
 | [Get Liquity](frontends/getliquity.md) | 90% | 
 | [DeFi Saver](frontends/defisaver.md) | 100% | 
+| [LiquityIR](frontends/liquityir.md) | 90% | 
 
 ## Disclaimer 
 *Liquity AG has not entered into any form of cooperation with Frontend Operators.*
