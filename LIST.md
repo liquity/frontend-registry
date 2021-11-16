@@ -58,6 +58,11 @@
 | [DeFi Saver](frontends/defisaver.md) | 100% | 
 | [LiquityIR](frontends/liquityir.md) | 90% | 
 | [CBonds.finance](frontends/cbonds.finance.md) | 97% | 
+| [liquity.destack.tech](frontends/destack_tech.md) | 99% | 
+| [LiquityLife](frontends/LiquityLife.md) | 99% | 
+| [Crypto Borrow](frontends/CryptoBorrow.md) | 99.75% | 
+| [Liquity Courage](frontends/liquity.courage.md) | 90% | 
+
 
 
 ## Disclaimer 
