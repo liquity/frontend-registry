@@ -1,7 +1,6 @@
-## liquity.app by liquidlattice
-- Website URL: 🔒 https://liquity.app
-- Date launched: 05/04/2021
-- Company name (if applicable): liquidlattice.com
-- Contact (email, Discord, etc.): Email: hello@liquidlattice.com, Discord: chris.eth#7351, Telegram: https://t.me/joinchat/LT5As_XLpXM1NWVk
-- Kickback Rate: `99%` (you get 99% of rewards and we keep 1%)
-- Product Description: We run a trustworthy, reliable and globally distributed frontend for Liquity. We're experienced builders and operators in the web3 ecosystem with a strong community of users and customers that trust us to look after them.
+## LiquityApp Frontend
+- Website URL: https://liquityapp.com
+- Date launched: 4/05/2021 (Liquity Protocol Launch date)
+- Contact: q66141115@gmail.com, Discord namae1#6658
+- Kickback Rate: 99%
+- Product Description: 99% kickback rate with latest frontend UI from Liquity launch kit. Users can borrow LUSD using ETH and stake in stability pool to earn LQTY. Main functionalities from Liquity are available. I will add more features based on user request :) Trade safe and have fun!

@@ -62,6 +62,8 @@
 | [LiquityLife](frontends/LiquityLife.md) | 99% | 
 | [Crypto Borrow](frontends/CryptoBorrow.md) | 99.75% | 
 | [Liquity Courage](frontends/liquity.courage.md) | 90% | 
+| [Chicken Bonds Net](frontends/chickenbondsnet.md) | 99% | 
+
 
 
 
