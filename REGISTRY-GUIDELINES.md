@@ -9,7 +9,8 @@ In your frontend's `.md` file, please include the following information:
 - Company name (if applicable): 
 - Contact (email, Discord, etc.): 
 - Kickback Rate: 
-- Product Description: 
+- Product Description:
+- Frontend tag 
 
 After which, your frontend may be added to the Github registry, then the liquity.org registry. 
 
